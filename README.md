@@ -1,1 +1,1 @@
-# bubble-algorithm
+# BUBBLE SORT ALGORITHM
